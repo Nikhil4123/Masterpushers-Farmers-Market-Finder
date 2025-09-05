@@ -283,7 +283,7 @@
 
 | Step | Command | Description |
 |------|---------|-------------|
-| **1️⃣** | `git clone https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder.git` | Clone Repository |
+| **1️⃣** | `git clone https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder.git` | Clone Repository |
 | **2️⃣** | `cd backend && npm install` | Install Backend Dependencies |
 | **3️⃣** | `cd ../frontend && npm install` | Install Frontend Dependencies |
 | **4️⃣** | `cd backend && npm run dev` | Start Backend Server |
@@ -686,7 +686,7 @@ Browse products, make orders, deliver goods, or manage your farm directly throug
 
 1. **Fork the Repository**
    ```bash
-   git fork https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder.git
+   git fork https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder.git
    ```
 
 2. **Create Feature Branch**
@@ -839,7 +839,7 @@ copies or substantial portions of the Software.
 
 **Nikhil**  
 💻 *Frontend Developer*  
-[@Nikhil](https://github.com/Nikhil)
+[@Nikhil](https://github.com/Nikhil4123)
 
 </td>
 <td align="center" width="25%">
@@ -870,7 +870,7 @@ copies or substantial portions of the Software.
 ### 🤝 **Want to Join Our Team?**
 
 We're always looking for passionate developers and contributors!  
-[**📧 Contact Us**](mailto:team@agrolynk.com) | [**💼 Opportunities**](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder/wiki/Join-Team)
+[**📧 Contact Us**](mailto:team@agrolynk.com) | [**💼 Opportunities**](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder/wiki/Join-Team)
 
 </div>
 
@@ -948,7 +948,7 @@ We're always looking for passionate developers and contributors!
 
 <br>
 
-[![Follow @Pavan0228](https://img.shields.io/github/followers/Nikhil4123?style=social)](https://github.com/Pavan0228)
+[![Follow @Pavan0228](https://img.shields.io/github/followers/Nikhil4123?style=social)](https://github.com/Nikhil4123)
 [![Star this repo](https://img.shields.io/github/stars/Nikhil4123/Masterpushers-Farmers-Market-Finder?style=social)](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder)
 
 <br>
