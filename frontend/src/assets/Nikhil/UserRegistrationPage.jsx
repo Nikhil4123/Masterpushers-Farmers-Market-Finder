@@ -24,7 +24,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import SpeechRecognition, {
     useSpeechRecognition,
 } from "react-speech-recognition";
-import { API_BASE_URL } from '../../config';
+import { API_BASE_URL } from '../../../config';
 
 const UserRegistrationPage = () => {
     const fileInputRef = useRef(null);

@@ -18,7 +18,7 @@ import {
 import ProductShowPage from "@/assets/Nikhil/ProductShowPage";
 import MarketMap from "@/components/MarketMap";
 import HeroSection from "./HeroSection";
-import { API_BASE_URL } from "../config";
+import { API_BASE_URL } from "../../config";
 
 const HomePage = () => {
     const [location, setLocation] = useState("");
