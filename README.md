@@ -23,7 +23,7 @@
 
 <br>
 
-### 🚀 **[Live Demo](https://agro-lynk-demo.com)** | 📖 **[Documentation](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder/wiki)** | 🎯 **[Features](#-key-features)**
+### 🚀 **[Live Demo](https://agro-lynk-demo.com)** | 📖 **[Documentation](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder/wiki)** | 🎯 **[Features](#-key-features)**
 
 <br>
 
@@ -283,7 +283,7 @@
 
 | Step | Command | Description |
 |------|---------|-------------|
-| **1️⃣** | `git clone https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder.git` | Clone Repository |
+| **1️⃣** | `git clone https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder.git` | Clone Repository |
 | **2️⃣** | `cd backend && npm install` | Install Backend Dependencies |
 | **3️⃣** | `cd ../frontend && npm install` | Install Frontend Dependencies |
 | **4️⃣** | `cd backend && npm run dev` | Start Backend Server |
@@ -654,7 +654,7 @@ Browse products, make orders, deliver goods, or manage your farm directly throug
 
 ### 📖 **Additional Resources**
 
-[**📋 Full API Documentation**](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder/wiki/API) | [**🧪 Postman Collection**](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder/wiki/Postman) | [**🔧 API Testing**](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder/wiki/Testing)
+[**📋 Full API Documentation**](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder/wiki/API) | [**🧪 Postman Collection**](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder/wiki/Postman) | [**🔧 API Testing**](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder/wiki/Testing)
 
 </div>
 
@@ -686,7 +686,7 @@ Browse products, make orders, deliver goods, or manage your farm directly throug
 
 1. **Fork the Repository**
    ```bash
-   git fork https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder.git
+   git fork https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder.git
    ```
 
 2. **Create Feature Branch**
@@ -741,7 +741,7 @@ Browse products, make orders, deliver goods, or manage your farm directly throug
 
 ### 🚀 **Ready to Contribute?**
 
-[**📋 Issues**](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder/issues) | [**💡 Feature Requests**](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder/issues/new) | [**🔧 Development Guide**](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder/wiki/Development)
+[**📋 Issues**](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder/issues) | [**💡 Feature Requests**](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder/issues/new) | [**🔧 Development Guide**](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder/wiki/Development)
 
 </div>
 
@@ -839,7 +839,7 @@ copies or substantial portions of the Software.
 
 **Nikhil**  
 💻 *Frontend Developer*  
-[@Nikhil](https://github.com/Nikhil)
+[@Nikhil](https://github.com/Nikhil4123)
 
 </td>
 <td align="center" width="25%">
@@ -870,7 +870,7 @@ copies or substantial portions of the Software.
 ### 🤝 **Want to Join Our Team?**
 
 We're always looking for passionate developers and contributors!  
-[**📧 Contact Us**](mailto:team@agrolynk.com) | [**💼 Opportunities**](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder/wiki/Join-Team)
+[**📧 Contact Us**](mailto:team@agrolynk.com) | [**💼 Opportunities**](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder/wiki/Join-Team)
 
 </div>
 
@@ -900,8 +900,8 @@ We're always looking for passionate developers and contributors!
 |---------|------|---------------|
 | 📧 **Email** | [support@agrolynk.com](mailto:support@agrolynk.com) | 24-48 hours |
 | 💬 **Discord** | [Join Community](https://discord.gg/agrolynk) | Real-time |
-| 🐛 **Issues** | [GitHub Issues](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder/issues) | 1-7 days |
-| 📖 **Documentation** | [Project Wiki](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder/wiki) | Always available |
+| 🐛 **Issues** | [GitHub Issues](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder/issues) | 1-7 days |
+| 📖 **Documentation** | [Project Wiki](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder/wiki) | Always available |
 
 </td>
 <td width="50%" align="center">
@@ -914,9 +914,9 @@ We're always looking for passionate developers and contributors!
 
 [![Configuration](https://img.shields.io/badge/⚙️-Configuration-blue?style=for-the-badge)](#-configuration)
 
-[![Troubleshooting](https://img.shields.io/badge/🔧-Troubleshooting-orange?style=for-the-badge)](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder/wiki/Troubleshooting)
+[![Troubleshooting](https://img.shields.io/badge/🔧-Troubleshooting-orange?style=for-the-badge)](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder/wiki/Troubleshooting)
 
-[![FAQ](https://img.shields.io/badge/❓-FAQ-purple?style=for-the-badge)](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder/wiki/FAQ)
+[![FAQ](https://img.shields.io/badge/❓-FAQ-purple?style=for-the-badge)](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder/wiki/FAQ)
 
 </div>
 
@@ -948,8 +948,8 @@ We're always looking for passionate developers and contributors!
 
 <br>
 
-[![Follow @Pavan0228](https://img.shields.io/github/followers/Pavan0228?style=social)](https://github.com/Pavan0228)
-[![Star this repo](https://img.shields.io/github/stars/Pavan0228/Masterpushers-Farmers-Market-Finder?style=social)](https://github.com/Pavan0228/Masterpushers-Farmers-Market-Finder)
+[![Follow @Nikhil4123](https://img.shields.io/github/followers/Nikhil4123?style=social)](https://github.com/Nikhil4123)
+[![Star this repo](https://img.shields.io/github/stars/Nikhil4123/Masterpushers-Farmers-Market-Finder?style=social)](https://github.com/Nikhil4123/Masterpushers-Farmers-Market-Finder)
 
 <br>
 
