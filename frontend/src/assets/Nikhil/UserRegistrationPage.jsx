@@ -24,6 +24,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import SpeechRecognition, {
     useSpeechRecognition,
 } from "react-speech-recognition";
+import { API_BASE_URL } from '../../config';
 
 const UserRegistrationPage = () => {
     const fileInputRef = useRef(null);
@@ -414,12 +415,12 @@ const UserRegistrationPage = () => {
                 console.log("Sending request to API...");
                 console.log(
                     "API Endpoint:",
-                    "http://localhost:3000/api/v1/auth/signup"
+                    `${API_BASE_URL}/api/v1/auth/signup`
                 );
                 console.log("Request Method:", "POST");
 
                 const response = await fetch(
-                    "http://localhost:3000/api/v1/auth/signup",
+                    `${API_BASE_URL}/api/v1/auth/signup`,
                     {
                         method: "POST",
                         headers: {

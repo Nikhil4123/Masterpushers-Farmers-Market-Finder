@@ -18,6 +18,7 @@ import {
 import ProductShowPage from "@/assets/Nikhil/ProductShowPage";
 import MarketMap from "@/components/MarketMap";
 import HeroSection from "./HeroSection";
+import { API_BASE_URL } from "../config";
 
 const HomePage = () => {
     const [location, setLocation] = useState("");
@@ -27,7 +28,7 @@ const HomePage = () => {
         console.log(`Searching for markets near ${location}`);
         try {
             const response = await fetch(
-                `http://localhost:3000/api/v1/ampc?location=${location}`
+                `${API_BASE_URL}/api/v1/ampc?location=${location}`
             );
             if (!response.ok) {
                 throw new Error("Failed to fetch data");

@@ -13,6 +13,7 @@ import {
 } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import { useLoadScript, GoogleMap, Marker } from '@react-google-maps/api';
+import { API_BASE_URL } from '../../config';
 
 const CustomerRegistrationPage = () => {
     const fileInputRef = useRef(null);
@@ -329,7 +330,7 @@ const CustomerRegistrationPage = () => {
                 });
 
                 const response = await fetch(
-                    "http://localhost:3000/api/v1/auth/signup",
+                    `${API_BASE_URL}/api/v1/auth/signup`,
                     {
                         method: "POST",
                         body: formDataToSend,
